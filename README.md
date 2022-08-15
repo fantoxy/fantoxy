@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2 lign="left"> dEflame#0034
+<h3 lign="left">csgo league cheat provider </h3>
+<h3 lign="left">Discord: https://discord.gg/WSsFzWN2Nx</h3>
+  
 
-<!--
-**fantoxy/fantoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+<div align="center" style="display: inline_block">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" alt="Python" />
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg" alt="Git" />
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" alt="Linux" />
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-plain.svg" alt="C" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-plain.svg
