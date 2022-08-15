@@ -10,7 +10,6 @@
   <img align="center" height="40" width="40" src="https://github.com/Benio101/cpp-logo/blob/master/cpp_logo.svg" alt="C++" />
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg" alt="Git" />
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" alt="Linux" />
-  <img align="center" height="40" width="40" src="https://github.com/Benio101/cpp-logo/blob/master/cpp_logo.svg" alt="C++" />
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
