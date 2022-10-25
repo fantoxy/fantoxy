@@ -1,4 +1,4 @@
-<h2 lign="left"> fantoxy#0034
+<h2 lign="left"> mazinet#0034
 <h3 lign="left">csgo league cheat provider </h3>
 <h3 lign="left">Discord: https://discord.gg/WSsFzWN2Nx</h3>
   
