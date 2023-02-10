@@ -1,6 +1,6 @@
-<h2 lign="left"> kleffer#2872
+<h2 lign="left"> fant#2888
 <h3 lign="left">csgo league cheat provider </h3>
-<h3 lign="left">Discord: https://discord.gg/WSsFzWN2Nx</h3>
+<h3 lign="left">Discord: https://discord.gg/aQU5rseNdp
   
 
 <h3 align="left">Languages and Tools:</h3>
